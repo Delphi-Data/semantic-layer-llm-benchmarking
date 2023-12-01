@@ -37,3 +37,6 @@ models:
       +materialized: view
 seeds:
   schema: _seed
+
+dbt-cloud:
+  project-id: "321168"
